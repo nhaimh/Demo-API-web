@@ -1,4 +1,4 @@
-# ASP.NET Core 7.0 project from LNH
+# ASP.NET Core 7.0 API from LNH
 ## Techologies
 - ASP.NET core 7.0
 - Entity Framework Core 7.0
